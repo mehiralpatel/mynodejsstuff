@@ -1,0 +1,12 @@
+{
+
+    "common_messages_error": "Something went wrong please try again later.",
+    "common_messages_record_available": "Records are available.",
+    "common_messages_single_record_available": "Records is available.",
+    "common_messages_record_not_available": "Records are not available.",
+    "common_messages_single_record_not_available": "Records is not available.",
+    "records_updated": "Record is successfully updated.",
+    "records_inserted": "Record is successfully inserted.",
+    "records_deleted": "Record is successfully deleted.",
+    "required_parameters_null_or_missing": "Required parameters value null or missing."
+}
